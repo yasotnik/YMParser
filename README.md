@@ -1,2 +1,2 @@
 # internet-shop-parser
-Market.yandex.ru parser to DB based on Yandex API. 
+Market.yandex.ru GUI parser using yandex market API 
