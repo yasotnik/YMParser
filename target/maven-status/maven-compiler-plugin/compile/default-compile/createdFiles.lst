@@ -1,9 +1,0 @@
-ua\edu\ssu\sotnik\controllers\javafx\Controller.class
-ua\edu\ssu\sotnik\models\Product.class
-ua\edu\ssu\sotnik\controllers\DBController.class
-ua\edu\ssu\sotnik\controllers\IProductParser.class
-ua\edu\ssu\sotnik\controllers\ParserFactory.class
-ua\edu\ssu\sotnik\controllers\YandexParserAPI.class
-ua\edu\ssu\sotnik\models\Category.class
-ua\edu\ssu\sotnik\App.class
-ua\edu\ssu\sotnik\controllers\DBController$1.class
